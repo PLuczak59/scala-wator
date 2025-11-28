@@ -6,6 +6,9 @@ Une simulation de dynamique des populations développée en Scala utilisant des 
 
 Ce projet implémente le modèle Wator, une simulation écologique d'interaction prédateur-proie entre requins et thons dans un environnement océanique. Les deux espèces se déplacent, se reproduisent et interagissent selon des règles simples, créant des dynamiques de population complexes.
 
+## Démonstration
+https://github.com/user-attachments/assets/2c7efe7b-e015-42cc-9d7e-3a30a62589e0
+
 ## Fonctionnalités
 
 - **Déplacement des thons** : Se déplacent aléatoirement vers des cases voisines libres
@@ -43,4 +46,5 @@ Ce projet implémente le modèle Wator, une simulation écologique d'interaction
 sbt compile
 sbt run
 ```
+
 
